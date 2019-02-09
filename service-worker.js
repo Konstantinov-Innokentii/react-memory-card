@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-memory-card/precache-manifest.9573fde9e857b2ec4d746c7b2d2bcc88.js"
+  "/react-memory-card/precache-manifest.74ce047c3bfcec61659c9881ff14f7ef.js"
 );
 
 workbox.clientsClaim();

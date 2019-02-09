@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-memory-card/static/css/main.f12fc98d.chunk.css"
   },
   {
-    "revision": "47425681b699888685b81c8db5e5067e",
+    "revision": "8e971850eb25226174edc714237fde9d",
     "url": "/react-memory-card/index.html"
   }
 ];
