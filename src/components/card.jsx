@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import back from './img/Back.png'
 
 export class Card extends Component{
 
@@ -8,14 +8,16 @@ export class Card extends Component{
     }
 
     render() {
+        const image = require(`./img/${this.props.card.value+this.props.card.suit}.png`);
+
         return (
             <div className={this.props.card.isMatched ? "card-matched" : "card" } onClick={e => this.props.onCardClick(e, this.props.card)}>
                 {this.props.card.isOpen && <>
-                    <img src={`/img/${this.props.card.value+this.props.card.suit}.png`} alt={`${this.props.card.value+this.props.card.suit}`}/>
+                    <img src={image} alt={`${this.props.card.value+this.props.card.suit}`}/>
                 </>}
                 {
                     !this.props.card.isOpen &&
-                    <img src='/img/RedBack.png' alt='card back'/>
+                    <img src={back} alt='card back'/>
                 }
             </div>
         )
