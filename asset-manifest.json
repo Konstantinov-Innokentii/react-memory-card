@@ -1,7 +1,7 @@
 {
   "main.css": "/react-memory-card/static/css/main.3478d314.chunk.css",
-  "main.js": "/react-memory-card/static/js/main.2d3e69a9.chunk.js",
-  "main.js.map": "/react-memory-card/static/js/main.2d3e69a9.chunk.js.map",
+  "main.js": "/react-memory-card/static/js/main.cb094f0e.chunk.js",
+  "main.js.map": "/react-memory-card/static/js/main.cb094f0e.chunk.js.map",
   "static/js/1.cb8c879a.chunk.js": "/react-memory-card/static/js/1.cb8c879a.chunk.js",
   "static/js/1.cb8c879a.chunk.js.map": "/react-memory-card/static/js/1.cb8c879a.chunk.js.map",
   "runtime~main.js": "/react-memory-card/static/js/runtime~main.4da0b0f9.js",
@@ -45,6 +45,6 @@
   "static/media/9S.png": "/react-memory-card/static/media/9S.155901cd.png",
   "static/css/main.3478d314.chunk.css.map": "/react-memory-card/static/css/main.3478d314.chunk.css.map",
   "index.html": "/react-memory-card/index.html",
-  "precache-manifest.7e29cf608996f90a20f4e0a1c9a908e6.js": "/react-memory-card/precache-manifest.7e29cf608996f90a20f4e0a1c9a908e6.js",
+  "precache-manifest.687fb87b439174188751ce4e42e16c39.js": "/react-memory-card/precache-manifest.687fb87b439174188751ce4e42e16c39.js",
   "service-worker.js": "/react-memory-card/service-worker.js"
 }

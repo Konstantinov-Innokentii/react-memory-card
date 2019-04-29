@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2d3e69a985011b6d8baa",
+    "revision": "cb094f0e5f2d818d7c0a",
     "url": "/react-memory-card/static/css/main.3478d314.chunk.css"
   },
   {
-    "revision": "2d3e69a985011b6d8baa",
-    "url": "/react-memory-card/static/js/main.2d3e69a9.chunk.js"
+    "revision": "cb094f0e5f2d818d7c0a",
+    "url": "/react-memory-card/static/js/main.cb094f0e.chunk.js"
   },
   {
     "revision": "cb8c879a8d6102e35bdf",
@@ -164,7 +164,7 @@ self.__precacheManifest = [
     "url": "/react-memory-card/static/media/9S.155901cd.png"
   },
   {
-    "revision": "a6659f456603b909d7c4fe961697630c",
+    "revision": "7f5e469b97288b7fd9ee667300b8defe",
     "url": "/react-memory-card/index.html"
   }
 ];
